@@ -25,7 +25,7 @@
             "url": "http://www.gnu.org/licenses/gpl.html"
         }
     ],
-    "main": "src/stable/jquery.layout.js",
+    "main": "source/stable/jquery.layout.js",
     "maintainers": [
         {
             "email": "kevin@jquery-dev.com",
